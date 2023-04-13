@@ -166,21 +166,28 @@ print(classification_report(Y_test,predictions))
 ```
 
 ## OUTPUT 
-df.head():
+### df.head():
 ![image](https://user-images.githubusercontent.com/94228215/231656995-7685aa8a-4b3a-4ec6-8d91-afebbde5323a.png)
-X.head():
+
+### X.head():
 ![image](https://user-images.githubusercontent.com/94228215/231657038-9af2a39c-7f14-4a00-ac9b-c5835296d956.png)
-Y.head():
+
+### Y.head():
 ![image](https://user-images.githubusercontent.com/94228215/231657134-35c629de-d539-459e-9a41-b7064a830933.png)
-Unique Values in Y:
+
+### Unique Values in Y:
 ![image](https://user-images.githubusercontent.com/94228215/231657192-727c7437-ab23-4136-8664-6f797323ce8c.png)
-Transforming Categorical to numerical values:
+
+### Transforming Categorical to numerical values:
 ![image](https://user-images.githubusercontent.com/94228215/231657232-90541147-ba71-40cf-a07d-5bb7034bf5e3.png)
-Predictions:
+
+### Predictions:
 ![image](https://user-images.githubusercontent.com/94228215/231657273-2506b0df-73d7-48b7-8ce7-762d9316ddbf.png)
-Confusion Matrix:
+
+### Confusion Matrix:
 ![image](https://user-images.githubusercontent.com/94228215/231657349-8385d2d5-4113-4e81-8cf2-159e13e33ddb.png)
-Classification_report:
+
+### Classification_report:
 ![image](https://user-images.githubusercontent.com/94228215/231657406-6c0039a6-c6d6-43fe-9a95-df6cd266d4a0.png)
 
 
